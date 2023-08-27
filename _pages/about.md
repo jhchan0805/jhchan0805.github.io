@@ -17,17 +17,16 @@ junhoong95_AT_stu_DOT_pku_DOT_edu_DOT_cn.
 
 News
 ======
-* [26/08/2023] [ReLeaPS](https://github.com/jhchan0805/ReLeaPS) code is released on github.
-* [13/07/2023] [ReLeaPS (Reinforcement Learning-based Illumination Planning for Generalized Photometric Stereo)](https://jhchan0805.github.io/ReLeaPS/) is accpeted by International Conference of Computer Vision (ICCV) 2023.
-* [01/09/2021] Pursuing Ph.D in Computer Applied Technology with Prof. Boxin Shi at Peking University.
+* [26/08/2023] [ReLeaPS](https://jhchan0805.github.io/ReLeaPS/) code is released on [github](https://github.com/jhchan0805/ReLeaPS).
+* [13/07/2023] [ReLeaPS](https://jhchan0805.github.io/ReLeaPS/)  (Reinforcement Learning-based Illumination Planning for Generalized Photometric Stereo) is accpeted by International Conference of Computer Vision [(ICCV)](https://iccv2023.thecvf.com) 2023.
+* [01/09/2021] Pursuing Ph.D in Computer Applied Technology with Prof. Boxin Shi at [Camera Intelligence Lab](https://camera.pku.edu.cn), Peking University.
 
-https://github.com/jhchan0805/ReLeaPS
 
 Education
 ======
 * B.S. in Manufacturing Engineering, University of Malaya, 2019
 * M.S. in Computer Science and Engineering, Sejong University, 2021
-* Ph.D in Version Control Theory, Peking University, 2025 (expected)
+* Ph.D in Computer Applied Technology, Peking University, 2025 (expected)
 
 Work experience
 ======
